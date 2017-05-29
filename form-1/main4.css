@@ -1,0 +1,35 @@
+body {
+	  font  : 18px sans-serif;
+
+	    padding : 2%;
+    }
+    input, textarea, select, button,label{
+	      width : 150px;
+	        margin: 0;
+			box-sizing: border-box;
+		}
+		label {
+				margin-left: -20px;
+			}
+			.container {
+						max-width: 500px;
+						        clear: both;
+						}
+						.container input {
+								width: 100%;
+								        clear: both;
+									        padding: 1%;
+									}
+
+									.container label {
+											padding: 3%;
+										}
+										#submit {
+												color:white;
+													background-color:green;
+														border:2px solid #336600;
+															padding:1%;
+																margin: 2%;
+																	margin-left: 10%
+																}
+															}
